@@ -1,0 +1,32 @@
+
+
+
+
+LightPhone:
+https://www.thelightphone.com/
+
+- theme matches ethos of website (minimal)
+- informative 
+- don't need to 'think' (clear call to action with beautiful images + a video that blends well into the background! )
+- responsive
+- great customer journey on scroll
+- relaxing visual format
+
+AJ Tracey Home Page:
+https://flugame.ajtracey.co.uk/en/store
+- immersive experience to create create customer journey
+- consistent NBA theme
+- modern, feels like a PWA
+- consistent typography
+- smooth loading despite features
+
+
+Front End Portfolio Page:
+https://meesverberne.com/
+
+- very visually pleasing (not overwhelming)
+- each section has it's own 'feel'
+- immersive
+- content is easy to read to understand key points
+- effective use
+- good use of Occam’s Razor (simplicity)
